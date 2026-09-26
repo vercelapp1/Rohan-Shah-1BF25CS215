@@ -6,6 +6,6 @@ public class Addition {
 
     public static void main(String[] arg) {
         
-        System.out.print("The sum is " + sub(10, 20));
+        System.out.print("The sum is " + add(10, 20));
     }
 }
